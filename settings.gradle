@@ -1,0 +1,4 @@
+include ':app', ':sdk'
+project(':sdk').projectDir = new File('../sdk-java')
+include ':Rfid.AsciiProtocol-Library'
+include ':DeviceList'

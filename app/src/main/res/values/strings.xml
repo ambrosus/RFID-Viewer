@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RFID Viewer</string>
+    <string name="reconnect_reader_menu_item">Reconnect last reader</string>
+    <string name="insecure_connect_reader_menu_item">Connect to reader</string>
+    <string name="disconnect_reader_menu_item">Disconnect reader</string>
+    <string name="reset_reader_menu_item">Reset reader</string>
+    <string name="EPC_code">EPC: %1$s</string>
+    <string name="asset_not_found">Asset not found</string>
+</resources>

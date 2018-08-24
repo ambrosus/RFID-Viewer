@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/reconnect_reader_menu_item" android:title="@string/reconnect_reader_menu_item_text"></item>
+    <item
+        android:id="@+id/secure_connect_reader_menu_item"
+        android:enabled="false"
+        android:title="@string/secure_connect"
+        android:visible="false"/>
+    <item
+        android:id="@+id/insecure_connect_reader_menu_item"
+        android:title="@string/insecure_connect"/>
+    <item
+        android:id="@+id/disconnect_reader_menu_item"
+        android:title="@string/disconnect">
+    </item>
+    <item android:id="@+id/reset_reader_menu_item" android:title="@string/reset_reader_menu_text" android:enabled="false"></item>
+    
+
+</menu>
